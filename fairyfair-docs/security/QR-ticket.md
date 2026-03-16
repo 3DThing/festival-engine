@@ -142,7 +142,7 @@
 
 ## Верификация на входе
 
-Сканирование QR-кодов выполняется охраной через [Android-приложение](./domains/android.md).
+Сканирование QR-кодов выполняется охраной через [Android-приложение](./fairyfair-docs/domains/android.md).
 
 **Онлайн-режим:**
 
@@ -187,9 +187,9 @@
 
 ## Связанные разделы
 
-- [Android-приложение — Охрана](./domains/android.md)
-- [UC-G-02: Верификация посетителя (онлайн)](./USE_CASES.md#uc-g-02--верификация-посетителя-онлайн)
-- [UC-G-03: Верификация в офлайн-режиме](./USE_CASES.md#uc-g-03--верификация-в-офлайн-режиме)
-- [UC-G-04: Верификация участника staff](./USE_CASES.md#uc-g-04--верификация-участника-staff)
-- [Безопасность — аутентификация](./security/authentication.md)
-- [Модуль «Билеты» в admin-панели](./domains/admin.md#билеты)
+- [Android-приложение — Охрана](./fairyfair-docs/domains/android.md)
+- [UC-G-02: Верификация посетителя (онлайн)](./fairyfair-docs/USE_CASES.md#uc-g-02--верификация-посетителя-онлайн)
+- [UC-G-03: Верификация в офлайн-режиме](./fairyfair-docs/USE_CASES.md#uc-g-03--верификация-в-офлайн-режиме)
+- [UC-G-04: Верификация участника staff](./fairyfair-docs/USE_CASES.md#uc-g-04--верификация-участника-staff)
+- [Безопасность — аутентификация](./fairyfair-docs/security/authentication.md)
+- [Модуль «Билеты» в admin-панели](./fairyfair-docs/domains/admin.md#билеты)
